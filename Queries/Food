@@ -7,7 +7,7 @@ UPDATE restaurant.food SET FoodName = "Spaghetti" WHERE C_ID = 1;
 
 SELECT * FROM restaurant.food;
 
-DELETE FROM ordering.customer WHERE C_ID = 1;
+DELETE FROM ordering.food WHERE C_ID = 1;
 
 SELECT * FROM restaurant.food;
 
