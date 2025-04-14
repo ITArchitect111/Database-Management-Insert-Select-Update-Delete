@@ -1,0 +1,12 @@
+
+INTO INTO restaurant.customer(Name, Address) VALUES('John Doe','Tokyo Japan),('James Pascual','Isabela Philippines'),('Rodrigo Duterte','Davao Del Sur Philippines');
+
+SELECT * FROM restaurant.customer;
+
+UPDATE restaurant.custumer SET Name = 'Onada Tadashi' WHERE C_ID = 1;
+
+SELECT * FROM restaurant.customer;
+
+DELETE FROM restaurant.customer WHERE C_ID = 1;
+
+SELECT * FROM restaurant.customer;
