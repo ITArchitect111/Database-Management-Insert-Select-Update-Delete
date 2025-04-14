@@ -1,0 +1,11 @@
+
+INTO INTO restaurant.transaction(C_ID,F_ID, Payment Method) VALUES (1,1, 'Cash'),(2,2,'Credit Card'),(3,3, 'E-Wallet');
+
+SELECT * FROM restaurant.transaction;
+
+UPDATE restaurant.transaction SET C_ID = 1 WHERE T_ID = 2;
+SELECT * FROM restaurant.transaction
+
+DELETE FROM restaurant.transaction WHERE T_ID = 3;
+
+SELECT * FROM restaurant.transaction;
