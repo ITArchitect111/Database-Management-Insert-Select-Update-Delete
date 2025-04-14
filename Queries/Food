@@ -1,0 +1,17 @@
+
+INTO INTO restaurant.food(FoodName, ServingQuantity, ServingPrice) VALUES('Adobo',3,75.25),'Pizza',23,12.4),('Halo Halo',5,25);
+
+SELECT * FROM restaurant.food;
+
+UPDATE restaurant.food SET FoodName = "Spaghetti" WHERE C_ID = 1;
+
+SELECT * FROM restaurant.food;
+
+DELETE FROM ordering.customer WHERE C_ID = 1;
+
+SELECT * FROM restaurant.food;
+
+SELECT  FoodName, ServingQuantity, ServingPrice, ServingQuantity * ServingPrice AS total_cost FROM restaurant.food;
+
+
+ 
