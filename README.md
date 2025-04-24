@@ -27,7 +27,7 @@ The queries includes **Insert**, **Select**, **Update**, and **Delete** . Design
 - **Transaction.txt**
 
 # Database Source File/
-- **Database 1(Restaurant Insert, Select,Update, and Delete**
+- **Database 1 (Restaurant Insert, Select,Update, and Delete**
   
 # README.md
 
@@ -38,7 +38,7 @@ The queries includes **Insert**, **Select**, **Update**, and **Delete** . Design
 ---
 
 ## How to Use
-1. Open the `Database 1(Restaurant Insert, Select,Update, and Delete` file using **MySQL Workbench**.
+1. Open the `Database 1 (Restaurant Insert, Select,Update, and Delete` file using **MySQL Workbench**.
 2. Click the Forward Engineer.
 3. Try perform SQL Queries and check if there's an error.
 
