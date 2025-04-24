@@ -1,4 +1,4 @@
-# Database-Basic-Operation
+# Database-Management-Insert-Select-Update-Delete
 
 ## Description
 This project demonstrates a complete Database Model setup using:
@@ -27,7 +27,7 @@ The queries includes **Insert**, **Select**, **Update**, and **Delete** . Design
 - **Transaction.txt**
 
 # Database Source File/
-- **Database (Restaurant).sql**
+- **Database 1(Restaurant Insert, Select,Update, and Delete**
   
 # README.md
 
@@ -38,8 +38,8 @@ The queries includes **Insert**, **Select**, **Update**, and **Delete** . Design
 ---
 
 ## How to Use
-1. Open the `Database (Restaurant).sql` file using **MySQL Workbench**.
-2. Check the Table's if they have data.
+1. Open the `Database 1(Restaurant Insert, Select,Update, and Delete` file using **MySQL Workbench**.
+2. Click the Forward Engineer.
 3. Try perform SQL Queries and check if there's an error.
 
 
