@@ -2,9 +2,9 @@
 
 ## Description
 This project demonstrates a complete Database Model setup using:
-- **Primary Key**
-- **Foreign Key**
-- **Data Types**
+- **3 Primary Key**
+- **2 Foreign Key**
+- **11 Data Types**
 - **Auto Increment**
 
 The queries includes **Insert**, **Select**, **Update**, and **Delete** . Designed and Queried using **MySQL Workbench**, this setup is ideal for learning Table Creation and basic CRUD Operation.
